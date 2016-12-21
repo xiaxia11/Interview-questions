@@ -20,6 +20,8 @@ HTML+CSS部分
 box-sizing有两个值一个是content-box，另一个是border-box。
 当设置为box-sizing:content-box时，将采用标准模式解析计算；
 当设置为box-sizing:border-box时，将采用怪异模式解析计算。
+
+
 4.简述几个css hack?
 （1）图片间隙 
 在div中插入图片，图片会将div下方撑大3px。hack1：将<div>与<img>写在同一行。hack2：给<img>添加display：block；
@@ -34,6 +36,8 @@ hack：若统一某一元素鼠标指针为手型：cursor：pointer；
 当li内的a转化块元素时，给a设置float，IE里面会出现阶梯状
 hack1：给a加display：inline-block；
 hack2：给li加float：left；
+
+
 5.link import两者之间区别?
 （1）老祖宗的差别，@important只能加载css
 （2）加载顺序的差别，最后加载import
