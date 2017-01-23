@@ -56,9 +56,11 @@ hack2：给li加float：left；
    
    
 8.transform？animation？区别?animation-duration
-         Transform:它和width、left一样，定义了元素很多静态样式实现变形、旋转、缩放、移位及透视等功能，通过一系列功能的组合我们可以实现很炫酷的静态效果（非动画)。 
-    Animation:作用于元素本身而不是样式属性,属于关键帧动画的范畴，它本身被用来替代一些纯粹表现的javascript代码而实现动画,可以通过keyframe显式控制当前帧的属性值.
+Transform:它和width、left一样，定义了元素很多静态样式实现变形、旋转、缩放、移位及透视等功能，通过一系列功能的组合我们可以实现很炫酷的静态效果（非动画)。 
+Animation:作用于元素本身而不是样式属性,属于关键帧动画的范畴，它本身被用来替代一些纯粹表现的javascript代码而实现动画,可以通过keyframe显式控制当前帧的属性值.
 animation-duration：规定完成动画所花费的时间，以秒或毫秒计。
+
+
 9.nth-of-type | nth-child?
 举例说明：
 <ul>
