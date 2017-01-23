@@ -60,7 +60,6 @@ Transform:ËüºÍwidth¡¢leftÒ»Ñù£¬¶¨ÒåÁËÔªËØºÜ¶à¾²Ì¬ÑùÊ½ÊµÏÖ±äÐÎ¡¢Ðý×ª¡¢Ëõ·Å¡¢ÒÆÎ»¼
 Animation:×÷ÓÃÓÚÔªËØ±¾Éí¶ø²»ÊÇÑùÊ½ÊôÐÔ,ÊôÓÚ¹Ø¼üÖ¡¶¯»­µÄ·¶³ë£¬Ëü±¾Éí±»ÓÃÀ´Ìæ´úÒ»Ð©´¿´â±íÏÖµÄjavascript´úÂë¶øÊµÏÖ¶¯»­,¿ÉÒÔÍ¨¹ýkeyframeÏÔÊ½¿ØÖÆµ±Ç°Ö¡µÄÊôÐÔÖµ.
 animation-duration£º¹æ¶¨Íê³É¶¯»­Ëù»¨·ÑµÄÊ±¼ä£¬ÒÔÃë»òºÁÃë¼Æ¡£
 
-
 9.nth-of-type | nth-child?
 ¾ÙÀýËµÃ÷£º
 <ul>
